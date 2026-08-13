@@ -44,8 +44,8 @@ function App() {
 
   return (
     <div className='app'>
-      <h1>Graded Lab 3</h1>
-      <p>React Product Catalog</p>
+      <h1>Online Store</h1>
+      <p>Product Catalog</p>
 
       <SearchBar value={searchQuery} onChange={handleSearchChange} />
 

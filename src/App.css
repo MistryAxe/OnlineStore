@@ -2,7 +2,10 @@ body {
   margin: 0;
   padding: 20px;
   font-family: Arial, sans-serif;
-  background: #f5f5f5;
+  background: yellow;
+  font-size: 16px;
+  font-weight: 400;
+  color: #333;
 }
 
 .app {
@@ -16,6 +19,10 @@ body {
   padding: 10px;
   margin: 20px 0;
   font-size: 16px;
+  background: #15bf0f;
+  border: none;
+  outline: none;
+  border-radius: 15px;
 }
 
 .product-list {
@@ -26,10 +33,10 @@ body {
 
 .product-card {
   width: 220px;
-  background: white;
+  background: orange;
   border-radius: 10px;
   padding: 15px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 8px rgba(98, 173, 8, 0.1);
   text-align: center;
 }
 
